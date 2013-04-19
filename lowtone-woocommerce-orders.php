@@ -63,7 +63,7 @@ namespace lowtone\woocommerce\orders {
 		}
 
 		return $views;
-	}, 9999);
+	});
 
 	// Register textdomain
 	
